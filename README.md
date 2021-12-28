@@ -1,4 +1,4 @@
-# Postman-dev
+# Postman-Ödev
 
 İmport Linki --> https://www.getpostman.com/collections/7baf5fd45b5ac95b3c93
 
